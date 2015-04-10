@@ -1,10 +1,5 @@
-study
-=====
-
-start how to use github
+##放一些零散的代码
+供自己回顾学习
 
 
-use git to commit
-
-second change
 
